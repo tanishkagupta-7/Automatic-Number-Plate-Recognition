@@ -32,5 +32,9 @@ This project uses **OpenCV** for image processing and **EasyOCR**/**Tesseract OC
 1. Clone this repository or download the `.ipynb` file.
 2. Ensure the following Python libraries are installed:
 
+----
+Project by Tanishka Gupta
+B.Tech CSE (AIML), LNCT University, Bhopal
 ```bash
+
 pip install opencv-python easyocr matplotlib pillow pytesseract
